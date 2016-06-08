@@ -1,6 +1,6 @@
 
-Ansible Examples
-----------------
+Ansible Playbooks Samples
+-----------------------------
 
-This repository contains examples and best practices for building Ansible Playbooks.
+[Ansible Introductory Tutorial](http://www.bogotobogo.com/DevOps/Ansible/Ansible_What_is_Ansible.php)
 
