@@ -1,6 +1,7 @@
 LAMP Stack + HAProxy: Example Playbooks
 -----------------------------------------------------------------------------
 
+- [Tutorial - Playbook for LAMP HAProxy](http://www.bogotobogo.com/DevOps/Ansible/Ansible-Playbook-Lamp-HAProxy.php)
 - Requires Ansible 1.2
 - Expects CentOS/RHEL 6 hosts
 
