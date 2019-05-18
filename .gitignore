@@ -1,3 +1,2 @@
-vault/data/*
-vault/logs/*
+wordpress-nginx/hosts
 .DS_Store
